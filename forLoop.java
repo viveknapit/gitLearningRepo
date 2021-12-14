@@ -5,6 +5,8 @@ class forLoop{
 
 	for(int i = 1; i<n; i++){
 	  	System.out.println(i);
+		
+		System.out.println("done with for loop");
 
 
 	}
